@@ -9,7 +9,7 @@
 
 ## Screen -shorts
 
-![Source code with TDD](sau khi add lên google thì coppy link ảnh )
+![Source code with TDD](https://github.com/binvtoccho/math-ult/blob/main/screen-shots/Source-with-TDD-DDt.png )
 
 
 ### Connect me via : haolqse170061@fpt.edu.vn	
